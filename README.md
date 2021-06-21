@@ -1,12 +1,12 @@
-  # **[React Recipies](http://github.com/Grrazzlle/reactrecipies)**
+  # **[React Recipes](http://github.com/Grrazzlle/reactrecipes)**
   
   [![License: None](https://img.shields.io/badge/License-None-blue.svg)](https://choosealicense.com/)
 
   ## Description
 
-  This application allows you to search for recipies or ingredients of dishs within a mongoose database
+  This application allows you to search for recipes or ingredients of dishs within a mongoose database
 
-  Click [here](https://grrazzlle-reactrecipies.herokuapp.com/) to try out the application
+  Click [here](https://grrazzlle-reactrecipes.herokuapp.com/) to try out the application
 
   ## Table of contents
 
@@ -46,4 +46,4 @@
   ## Questions
 
   Questions can be emailed [here](mailto:Cel47@miami.edu)
-# reactrecipies
+# reactrecipes
